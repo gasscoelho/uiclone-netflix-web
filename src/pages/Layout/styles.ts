@@ -53,5 +53,6 @@ export const IconContainer = styled.div`
 
   svg {
     cursor: pointer;
+    color: #ccc;
   }
 `;

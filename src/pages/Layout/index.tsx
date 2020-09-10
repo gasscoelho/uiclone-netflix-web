@@ -55,7 +55,13 @@ const Layout: React.FC = () => {
             &copy; Digital Millennium Copyright Act (DMCA)
           </Description>
           <IconContainer>
-            <FaGithub size={32} />
+            <a
+              href="https://github.com/gasscoelho/uiclone-netflix-web/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaGithub size={32} />
+            </a>
           </IconContainer>
         </Copyright>
       </Footer>
