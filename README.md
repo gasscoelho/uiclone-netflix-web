@@ -40,10 +40,10 @@ If you are using NPM then run `npm start`
 
 ## Built With
 
-✨ReactJS <br />
-✨TypeScript <br />
-✨Styled-Components <br />
-✨React-Icons & more! <br />
+✨ ReactJS <br />
+✨ TypeScript <br />
+✨ Styled-Components <br />
+✨ React-Icons & more! <br />
 
 ## Author
 
