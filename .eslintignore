@@ -1,0 +1,8 @@
+# Javascript files
+**/*.js
+
+# Dependencies
+node_modules
+
+# Build Folder
+build
