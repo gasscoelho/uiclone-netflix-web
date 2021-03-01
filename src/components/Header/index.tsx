@@ -29,7 +29,8 @@ const Header: React.FC = () => {
       </div>
       <div>
         <AvatarIcon
-          src="https://api.adorable.io/avatars/285/uiclone-netflix.png"
+          // src="https://api.adorable.io/avatars/285/uiclone-netflix.png"
+          src="avatar.jpeg"
           alt="Avatar"
         />
       </div>
