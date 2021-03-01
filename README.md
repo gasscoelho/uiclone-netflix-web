@@ -2,7 +2,7 @@
 
 > A simple static UI clone that uses the TMDb API.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d25303a2-671f-4c61-8551-4f2330ef5de9/deploy-status)](https://app.netlify.com/sites/elegant-noether-a50e5a/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca5f4f70-12d8-449f-80f5-dd5440151a74/deploy-status)](https://app.netlify.com/sites/pensive-snyder-46bc57/deploys)
 
 ![](.github/images/uiclone-netflix-1.png)
 
