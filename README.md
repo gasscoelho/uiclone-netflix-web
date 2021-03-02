@@ -1,6 +1,6 @@
 # UI Clone | Netflix
 
-> A simple static UI clone that uses the TMDb API.
+> A UI clone of the Netflix Home page website.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ca5f4f70-12d8-449f-80f5-dd5440151a74/deploy-status)](https://app.netlify.com/sites/pensive-snyder-46bc57/deploys)
 
