@@ -1,8 +1,10 @@
 # UI Clone | Netflix
 
-> A UI clone of the Netflix Home page website.
+A UI clone of the Netflix Home page website.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ca5f4f70-12d8-449f-80f5-dd5440151a74/deploy-status)](https://app.netlify.com/sites/pensive-snyder-46bc57/deploys)
+
+## Demo
 
 ![](.github/images/uiclone-netflix-1.png)
 
@@ -10,33 +12,31 @@
 
 ![](.github/images/uiclone-netflix-2.png)
 
-# Getting Started
+## Get Started
 
 Follow the steps below to properly run this application.
 
-### `1. git clone <repository_url>`
+#### Clone the repository:
 
-Clone the repository using the following command: <br />
-`git clone https://github.com/gasscoelho/uiclone-netflix-web.git`
+```bash
+git clone https://github.com/gasscoelho/uiclone-netflix-web.git
+```
 
-After that, you can open the project using an editor of your preference.
+```bash
+cd uiclone-netflix-web
+```
 
----
+#### Start the application:
 
-### `2. yarn`
+```bash
+yarn install
+```
 
-Install the project dependencies.
+```bash
+yarn start
+```
 
-If you are using NPM then run `npm install`
-
----
-
-### `3. yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-If you are using NPM then run `npm start`
+*You can also use NPM instead of YARN to install the dependencies and start the application.*
 
 ## Built With
 
@@ -47,4 +47,4 @@ If you are using NPM then run `npm start`
 
 ## Author
 
-**Gabriel Coelho** - Full Stack Developer
+**[Gabriel Coelho](https://gasscoelho.me/en)** - Software Engineer
